@@ -1,0 +1,61 @@
+Project Overview
+You have been hired as a junior front-end developer to create a landing page for a fictional streetwear brand, UrbanFit Apparel. The page should be modern, stylish, and responsive, reflecting the brand’s identity.
+
+Project Requirements
+
+
+✅ Header
+
+Company logo (UrbanFit Apparel)
+Navigation menu: Home | Shop | About | Contact
+
+
+✅ Hero Section
+
+Full-width background image of a model wearing UrbanFit’s latest collection
+Headline: "Style Meets Comfort"
+Subheadline: "Explore the latest trends in streetwear fashion."
+Call-to-action (CTA) button: "Shop Now"
+
+
+✅ About Section
+
+Short paragraph introducing UrbanFit:
+"UrbanFit Apparel is a streetwear brand that blends style and function, creating high-quality clothing for the modern urban lifestyle."
+
+
+✅ Featured Products Section
+
+Display 3-4 best-selling items with images, names, and prices
+Example:
+Oversized Hoodie – $59.99
+Streetwear Joggers – $49.99
+Graphic Tee – $29.99
+
+
+✅ Customer Reviews Section
+
+Display 2-3 testimonials from happy customers
+Example:
+"Best hoodie I’ve ever owned! Super comfy and stylish." – Alex R.
+
+
+✅ Newsletter Signup Section
+
+Headline: "Stay Ahead of the Trends"
+Short text: "Join our newsletter for exclusive drops and discounts."
+Email input field + “Subscribe” button
+
+
+✅ Footer
+
+Social media icons (Instagram, TikTok, Twitter)
+Copyright info (© 2025 UrbanFit Apparel. All rights reserved.)
+
+
+Bonus Features (Optional)
+
+✨ Hover effects on buttons and images
+✨ Smooth scrolling for navigation links
+✨ CSS animations (e.g., fade-in effects on sections)
+✨ Responsive design (works on mobile & desktop)
